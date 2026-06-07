@@ -2,7 +2,6 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > **Predicting sales for Corporación Favorita stores in Ecuador using modular machine learning, time-series statistical models, and modern foundation models (TimesFM).**
@@ -57,7 +56,7 @@ store-sales-time-series-forecasting/
 ├── .gitignore                       # Git exclusion rules
 ├── LICENSE                          # MIT License file
 ├── requirements.txt                 # Dependencies list
-├── submission.csv                   # Generated prediction file (excluded from Git)
+└── submission.csv                   # Generated prediction file (excluded from Git)
 ```
 
 ---
@@ -117,8 +116,8 @@ The models are compared on a 30-day validation set using **Root Mean Squared Log
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/store-sales-time-series-forecasting.git
-   cd store-sales-time-series-forecasting
+   git clone [https://github.com/Chelseaayu/store-sales-timeseries-forecasting]
+   cd store-sales-timeseries-forecasting
    ```
 
 2. Install dependencies:
