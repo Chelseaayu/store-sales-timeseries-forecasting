@@ -116,7 +116,7 @@ The models are compared on a 30-day validation set using **Root Mean Squared Log
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Chelseaayu/store-sales-timeseries-forecasting]
+   git clone https://github.com/Chelseaayu/store-sales-timeseries-forecasting
    cd store-sales-timeseries-forecasting
    ```
 
