@@ -126,6 +126,16 @@ The models are compared on a 30-day validation set using **Root Mean Squared Log
    ```
    *(Note: `timesfm` is optional and requires PyTorch. If it is not present, the pipeline will skip TimesFM and run the rest of the models smoothly.)*
 
+   ```
+   numpy
+   pandas
+   matplotlib
+   seaborn
+   scikit-learn
+   prophet
+   timesfm
+   ```
+
 ### 📥 Downloading the Data
 
 > [!IMPORTANT]
